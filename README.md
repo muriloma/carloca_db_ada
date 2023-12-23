@@ -54,9 +54,9 @@ O banco permite o cadastro de clientes, carros, categorias de carros, franquias 
 ## DIAGRAMA ENTIDADE RELACIONAMENTO (DER)
 Representação da modelagem do banco de dados CarLoca
 
-<img ser="/CARLOCA.png">
+![Texto Alternativo](CARLOCA.png)
 
-O DER pode ser visitado no link:
+O DER também pode ser visitado no link:
 https://dbdiagram.io/d/CARLOCA-6584ec4d89dea62799626bde
 
 ## FUNCIONALIDADES DO PROJETO Um carro possui modelo montadora, cor e versão; 
